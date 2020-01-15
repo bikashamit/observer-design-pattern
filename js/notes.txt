@@ -1,0 +1,11 @@
+where there comes situation when you think like passing the argument and getting the
+
+              ElementObserver--some class
+            has some function --update
+
+
+
+
+i were to call this inside the other class like 
+     o.update(this);
+                     
